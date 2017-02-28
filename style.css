@@ -1,0 +1,16 @@
+body{
+background-image: url(grid.png);
+
+}
+
+#container{
+position: absolute;
+background-color: yellow;
+left: 50px;
+top: 200px;
+height: 100px;
+width: 300px;
+padding: 20px;
+border: 20px solid red;
+margin: 20px;
+}
